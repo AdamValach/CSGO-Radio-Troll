@@ -1,6 +1,8 @@
 # CSGO Radio Troll
 Let's you fake item unbox messages in chat without the need to even open the developer console.
 
+Inspired by [video](https://youtu.be/WMN_A_NC5DQ) from Anomaly. Works on the same principle, but automated with big (and configurable) range of items.
+
 ## Setup
 
 1. Install the keyboard library using `pip install keyboard`
