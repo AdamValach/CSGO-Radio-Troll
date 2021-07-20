@@ -14,6 +14,7 @@ Let's you fake item unbox messages in chat without the need to even open the dev
 ## Config
 In config.py you can change multiple settings before running the script.
 
+`KEYBIND`: Key to send a fake radio message *('v' by default)*
 
 `PLAYERNAME`: Changes the "unboxers" player name *(You can use your nickname or someone elses from your team)*
 
