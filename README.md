@@ -3,6 +3,9 @@ Let's you fake item unbox messages in chat without the need to even open the dev
 
 Inspired by [video](https://youtu.be/WMN_A_NC5DQ) from Anomaly. Works on the same principle, but automated with big (and configurable) range of items.
 
+![Showcase1](Pictures/showcase1.png)
+![Showcase2](Pictures/showcase2.png)
+
 ## Setup
 
 1. Install the keyboard library using `pip install keyboard`
