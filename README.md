@@ -11,7 +11,7 @@ Inspired by [video](https://youtu.be/WMN_A_NC5DQ) from Anomaly. Works on the sam
 
 3. Run the script using `python main.py`
 
-4. Press the button specified in the `config.py` *('v' by default, there are cooldowns - you can't spam it and may need to press it multiple times in some cases)*
+4. Press the button specified in the `config.py` *('v' by default)*
 
 ## Config
 In config.py you can change multiple settings before running the script.
